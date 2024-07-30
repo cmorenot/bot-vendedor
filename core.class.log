@@ -1,0 +1,38 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5354112154@s.whatsapp.net',
+    fromMe: false,
+    id: '52FECEA6CC57330622F9E5FB0CD0EE8D',
+    participant: undefined
+  },
+  messageTimestamp: 1715569824,
+  pushName: 'cemt94',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hjk',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hjk',
+  from: '5354112154'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f10b3f64-d832-48f7-b504-f4f45bfa3b72',
+  keyword: 'key_116209bb-6368-415f-8dba-8a80531605e3',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e180f3396a61de3033d9b71353315298'
+}
